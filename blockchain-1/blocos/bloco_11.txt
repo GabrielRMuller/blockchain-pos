@@ -1,0 +1,5 @@
+Origem: Cook
+Destino: Ross
+Mensagem: Olá Ross. Meu nome é Cook
+Hash: 477fce157e1e83ffec16b0cca1d05d6dfa7ece2aad96225c46bce1e12c9562e1
+Hash Anterior: d5f783af234490ab994e3da3897f8f15915dd49dfd6248f3244e5de96dc989b1
